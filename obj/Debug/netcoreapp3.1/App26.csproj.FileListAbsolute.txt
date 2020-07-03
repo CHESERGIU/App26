@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App26\bin\Debug\netcoreapp3.1\App26.exe
+C:\Users\sergi\source\repos\App26\bin\Debug\netcoreapp3.1\App26.deps.json
+C:\Users\sergi\source\repos\App26\bin\Debug\netcoreapp3.1\App26.runtimeconfig.json
+C:\Users\sergi\source\repos\App26\bin\Debug\netcoreapp3.1\App26.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App26\bin\Debug\netcoreapp3.1\App26.dll
+C:\Users\sergi\source\repos\App26\bin\Debug\netcoreapp3.1\App26.pdb
+C:\Users\sergi\source\repos\App26\obj\Debug\netcoreapp3.1\App26.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App26\obj\Debug\netcoreapp3.1\App26.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App26\obj\Debug\netcoreapp3.1\App26.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App26\obj\Debug\netcoreapp3.1\App26.dll
+C:\Users\sergi\source\repos\App26\obj\Debug\netcoreapp3.1\App26.pdb
